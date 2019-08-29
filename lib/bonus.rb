@@ -1,4 +1,4 @@
-[:montague][:hero][:status] = "dead"
+[:hero][:status] = "dead"
 #epic_tragedy[:capulet][:hero][:status] = "dead"
 
 def bonus
